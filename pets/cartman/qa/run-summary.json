@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "run_dir": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source",
+  "spritesheet": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/final/spritesheet.webp",
+  "validation": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/final/validation.json",
+  "contact_sheet": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/qa/contact-sheet.png",
+  "review": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/qa/review.json",
+  "videos": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/qa/videos",
+  "package": "/Users/leecode/.codex/pets/cartman"
+}

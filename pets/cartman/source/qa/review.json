@@ -1,0 +1,962 @@
+{
+  "ok": true,
+  "frames_root": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames",
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26833,
+          "bbox": [
+            9,
+            5,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 152
+        },
+        {
+          "index": 1,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26470,
+          "bbox": [
+            10,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 166
+        },
+        {
+          "index": 2,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26833,
+          "bbox": [
+            9,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 181
+        },
+        {
+          "index": 3,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26664,
+          "bbox": [
+            9,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 142
+        },
+        {
+          "index": 4,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26293,
+          "bbox": [
+            10,
+            5,
+            181,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 136
+        },
+        {
+          "index": 5,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26607,
+          "bbox": [
+            9,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 135
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21055,
+          "bbox": [
+            26,
+            5,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 260
+        },
+        {
+          "index": 1,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21302,
+          "bbox": [
+            24,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 250
+        },
+        {
+          "index": 2,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20638,
+          "bbox": [
+            27,
+            5,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 294
+        },
+        {
+          "index": 3,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20564,
+          "bbox": [
+            28,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 269
+        },
+        {
+          "index": 4,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21102,
+          "bbox": [
+            28,
+            5,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 288
+        },
+        {
+          "index": 5,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20476,
+          "bbox": [
+            29,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 256
+        },
+        {
+          "index": 6,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20727,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 289
+        },
+        {
+          "index": 7,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21163,
+          "bbox": [
+            25,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 260
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21163,
+          "bbox": [
+            25,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 260
+        },
+        {
+          "index": 1,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20727,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 289
+        },
+        {
+          "index": 2,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20476,
+          "bbox": [
+            29,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 256
+        },
+        {
+          "index": 3,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21102,
+          "bbox": [
+            28,
+            5,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 288
+        },
+        {
+          "index": 4,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20564,
+          "bbox": [
+            28,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 269
+        },
+        {
+          "index": 5,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20638,
+          "bbox": [
+            27,
+            5,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 294
+        },
+        {
+          "index": 6,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21302,
+          "bbox": [
+            24,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 250
+        },
+        {
+          "index": 7,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21055,
+          "bbox": [
+            26,
+            5,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 260
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26213,
+          "bbox": [
+            5,
+            10,
+            187,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 95
+        },
+        {
+          "index": 1,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26118,
+          "bbox": [
+            5,
+            12,
+            187,
+            195
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 105
+        },
+        {
+          "index": 2,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25264,
+          "bbox": [
+            5,
+            13,
+            187,
+            195
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 108
+        },
+        {
+          "index": 3,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25901,
+          "bbox": [
+            5,
+            11,
+            187,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 112
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27661,
+          "bbox": [
+            5,
+            9,
+            187,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 152
+        },
+        {
+          "index": 1,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22061,
+          "bbox": [
+            5,
+            16,
+            187,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 163
+        },
+        {
+          "index": 2,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21340,
+          "bbox": [
+            5,
+            19,
+            187,
+            189
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 141
+        },
+        {
+          "index": 3,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19592,
+          "bbox": [
+            5,
+            20,
+            187,
+            187
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 168
+        },
+        {
+          "index": 4,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27458,
+          "bbox": [
+            8,
+            5,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 151
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25293,
+          "bbox": [
+            17,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 186
+        },
+        {
+          "index": 1,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25381,
+          "bbox": [
+            18,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 196
+        },
+        {
+          "index": 2,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25550,
+          "bbox": [
+            16,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 185
+        },
+        {
+          "index": 3,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24903,
+          "bbox": [
+            19,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 195
+        },
+        {
+          "index": 4,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23618,
+          "bbox": [
+            27,
+            5,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 175
+        },
+        {
+          "index": 5,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25282,
+          "bbox": [
+            16,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 202
+        },
+        {
+          "index": 6,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25004,
+          "bbox": [
+            20,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 280
+        },
+        {
+          "index": 7,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26582,
+          "bbox": [
+            10,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 227
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25386,
+          "bbox": [
+            14,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 75
+        },
+        {
+          "index": 1,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25702,
+          "bbox": [
+            13,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 100
+        },
+        {
+          "index": 2,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24902,
+          "bbox": [
+            14,
+            5,
+            178,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 77
+        },
+        {
+          "index": 3,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25350,
+          "bbox": [
+            14,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 76
+        },
+        {
+          "index": 4,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24794,
+          "bbox": [
+            17,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 77
+        },
+        {
+          "index": 5,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24799,
+          "bbox": [
+            17,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 69
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24804,
+          "bbox": [
+            14,
+            5,
+            178,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 159
+        },
+        {
+          "index": 1,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24290,
+          "bbox": [
+            18,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 147
+        },
+        {
+          "index": 2,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24944,
+          "bbox": [
+            15,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 154
+        },
+        {
+          "index": 3,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24838,
+          "bbox": [
+            5,
+            8,
+            187,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 138
+        },
+        {
+          "index": 4,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25382,
+          "bbox": [
+            14,
+            5,
+            178,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 155
+        },
+        {
+          "index": 5,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24235,
+          "bbox": [
+            19,
+            5,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 129
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25944,
+          "bbox": [
+            15,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 112
+        },
+        {
+          "index": 1,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26271,
+          "bbox": [
+            17,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 119
+        },
+        {
+          "index": 2,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26157,
+          "bbox": [
+            14,
+            5,
+            178,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 101
+        },
+        {
+          "index": 3,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26701,
+          "bbox": [
+            12,
+            5,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 116
+        },
+        {
+          "index": 4,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27267,
+          "bbox": [
+            11,
+            5,
+            181,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 113
+        },
+        {
+          "index": 5,
+          "file": "/Users/leecode/ai-workspaces/codex-pets/pets/cartman/source/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26319,
+          "bbox": [
+            15,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 114
+        }
+      ]
+    }
+  ]
+}
