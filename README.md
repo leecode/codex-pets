@@ -4,37 +4,44 @@ Custom Codex pet collection and distribution workspace.
 
 ## Pet Previews
 
-### Cartman — [`dist/cartman`](dist/cartman)
+| Pet | Preview | Animations | Install |
+| --- | --- | --- | --- |
+| Cartman | ![Cartman](pets/cartman/qa/contact-sheet.png) | idle · running-right · running-left · waving · jumping · failed · waiting · running · review | [`dist/cartman`](dist/cartman) |
+| BT Buddy | ![BT Buddy](pets/bt-buddy/qa/contact-sheet.png) | idle · running-right · running-left · waving · jumping · failed · waiting · running · review | [`dist/bt-buddy`](dist/bt-buddy) |
 
-![Cartman preview](pets/cartman/qa/contact-sheet.png)
-
-| idle | running-right | running-left |
-| --- | --- | --- |
-| <video src="pets/cartman/qa/videos/idle.mp4" controls></video> | <video src="pets/cartman/qa/videos/running-right.mp4" controls></video> | <video src="pets/cartman/qa/videos/running-left.mp4" controls></video> |
-
-| waving | jumping | failed |
-| --- | --- | --- |
-| <video src="pets/cartman/qa/videos/waving.mp4" controls></video> | <video src="pets/cartman/qa/videos/jumping.mp4" controls></video> | <video src="pets/cartman/qa/videos/failed.mp4" controls></video> |
-
-| waiting | running | review |
-| --- | --- | --- |
-| <video src="pets/cartman/qa/videos/waiting.mp4" controls></video> | <video src="pets/cartman/qa/videos/running.mp4" controls></video> | <video src="pets/cartman/qa/videos/review.mp4" controls></video> |
-
-### BT Buddy — [`dist/bt-buddy`](dist/bt-buddy)
-
-![BT Buddy preview](pets/bt-buddy/qa/contact-sheet.png)
+<details>
+<summary>Cartman — animation previews</summary>
 
 | idle | running-right | running-left |
 | --- | --- | --- |
-| <video src="pets/bt-buddy/qa/videos/idle.mp4" controls></video> | <video src="pets/bt-buddy/qa/videos/running-right.mp4" controls></video> | <video src="pets/bt-buddy/qa/videos/running-left.mp4" controls></video> |
+| [idle.mp4](pets/cartman/qa/videos/idle.mp4) | [running-right.mp4](pets/cartman/qa/videos/running-right.mp4) | [running-left.mp4](pets/cartman/qa/videos/running-left.mp4) |
 
 | waving | jumping | failed |
 | --- | --- | --- |
-| <video src="pets/bt-buddy/qa/videos/waving.mp4" controls></video> | <video src="pets/bt-buddy/qa/videos/jumping.mp4" controls></video> | <video src="pets/bt-buddy/qa/videos/failed.mp4" controls></video> |
+| [waving.mp4](pets/cartman/qa/videos/waving.mp4) | [jumping.mp4](pets/cartman/qa/videos/jumping.mp4) | [failed.mp4](pets/cartman/qa/videos/failed.mp4) |
 
 | waiting | running | review |
 | --- | --- | --- |
-| <video src="pets/bt-buddy/qa/videos/waiting.mp4" controls></video> | <video src="pets/bt-buddy/qa/videos/running.mp4" controls></video> | <video src="pets/bt-buddy/qa/videos/review.mp4" controls></video> |
+| [waiting.mp4](pets/cartman/qa/videos/waiting.mp4) | [running.mp4](pets/cartman/qa/videos/running.mp4) | [review.mp4](pets/cartman/qa/videos/review.mp4) |
+
+</details>
+
+<details>
+<summary>BT Buddy — animation previews</summary>
+
+| idle | running-right | running-left |
+| --- | --- | --- |
+| [idle.mp4](pets/bt-buddy/qa/videos/idle.mp4) | [running-right.mp4](pets/bt-buddy/qa/videos/running-right.mp4) | [running-left.mp4](pets/bt-buddy/qa/videos/running-left.mp4) |
+
+| waving | jumping | failed |
+| --- | --- | --- |
+| [waving.mp4](pets/bt-buddy/qa/videos/waving.mp4) | [jumping.mp4](pets/bt-buddy/qa/videos/jumping.mp4) | [failed.mp4](pets/bt-buddy/qa/videos/failed.mp4) |
+
+| waiting | running | review |
+| --- | --- | --- |
+| [waiting.mp4](pets/bt-buddy/qa/videos/waiting.mp4) | [running.mp4](pets/bt-buddy/qa/videos/running.mp4) | [review.mp4](pets/bt-buddy/qa/videos/review.mp4) |
+
+</details>
 
 ## Layout
 
