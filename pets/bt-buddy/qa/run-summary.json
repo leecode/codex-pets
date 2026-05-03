@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "run_dir": "/Users/leecode/Documents/New project 2/hatch-pet-runs/bt-buddy",
+  "spritesheet": "/Users/leecode/Documents/New project 2/hatch-pet-runs/bt-buddy/final/spritesheet.webp",
+  "validation": "/Users/leecode/Documents/New project 2/hatch-pet-runs/bt-buddy/final/validation.json",
+  "contact_sheet": "/Users/leecode/Documents/New project 2/hatch-pet-runs/bt-buddy/qa/contact-sheet.png",
+  "review": "/Users/leecode/Documents/New project 2/hatch-pet-runs/bt-buddy/qa/review.json",
+  "videos": "/Users/leecode/Documents/New project 2/hatch-pet-runs/bt-buddy/qa/videos",
+  "package": "/Users/leecode/.codex/pets/bt-buddy"
+}
