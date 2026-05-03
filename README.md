@@ -4,10 +4,37 @@ Custom Codex pet collection and distribution workspace.
 
 ## Pet Previews
 
-| Pet | Preview | Install package |
+### Cartman — [`dist/cartman`](dist/cartman)
+
+![Cartman preview](pets/cartman/qa/contact-sheet.png)
+
+| idle | running-right | running-left |
 | --- | --- | --- |
-| Cartman | ![Cartman preview](pets/cartman/qa/contact-sheet.png) | [`dist/cartman`](dist/cartman) |
-| BT Buddy | ![BT Buddy preview](pets/bt-buddy/qa/contact-sheet.png) | [`dist/bt-buddy`](dist/bt-buddy) |
+| <video src="pets/cartman/qa/videos/idle.mp4" controls></video> | <video src="pets/cartman/qa/videos/running-right.mp4" controls></video> | <video src="pets/cartman/qa/videos/running-left.mp4" controls></video> |
+
+| waving | jumping | failed |
+| --- | --- | --- |
+| <video src="pets/cartman/qa/videos/waving.mp4" controls></video> | <video src="pets/cartman/qa/videos/jumping.mp4" controls></video> | <video src="pets/cartman/qa/videos/failed.mp4" controls></video> |
+
+| waiting | running | review |
+| --- | --- | --- |
+| <video src="pets/cartman/qa/videos/waiting.mp4" controls></video> | <video src="pets/cartman/qa/videos/running.mp4" controls></video> | <video src="pets/cartman/qa/videos/review.mp4" controls></video> |
+
+### BT Buddy — [`dist/bt-buddy`](dist/bt-buddy)
+
+![BT Buddy preview](pets/bt-buddy/qa/contact-sheet.png)
+
+| idle | running-right | running-left |
+| --- | --- | --- |
+| <video src="pets/bt-buddy/qa/videos/idle.mp4" controls></video> | <video src="pets/bt-buddy/qa/videos/running-right.mp4" controls></video> | <video src="pets/bt-buddy/qa/videos/running-left.mp4" controls></video> |
+
+| waving | jumping | failed |
+| --- | --- | --- |
+| <video src="pets/bt-buddy/qa/videos/waving.mp4" controls></video> | <video src="pets/bt-buddy/qa/videos/jumping.mp4" controls></video> | <video src="pets/bt-buddy/qa/videos/failed.mp4" controls></video> |
+
+| waiting | running | review |
+| --- | --- | --- |
+| <video src="pets/bt-buddy/qa/videos/waiting.mp4" controls></video> | <video src="pets/bt-buddy/qa/videos/running.mp4" controls></video> | <video src="pets/bt-buddy/qa/videos/review.mp4" controls></video> |
 
 ## Layout
 
@@ -48,6 +75,16 @@ codex-pets/
 ## Install A Pet Locally
 
 From this workspace:
+
+```bash
+# Install one or more pets
+./install-pet.sh bt-buddy cartman
+
+# List available pets
+./install-pet.sh --list
+```
+
+Or manually:
 
 ```bash
 PET_ID=cartman
