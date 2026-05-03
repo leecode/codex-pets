@@ -2,6 +2,13 @@
 
 Custom Codex pet collection and distribution workspace.
 
+## Pet Previews
+
+| Pet | Preview | Install package |
+| --- | --- | --- |
+| Cartman | ![Cartman preview](pets/cartman/qa/contact-sheet.png) | [`dist/cartman`](dist/cartman) |
+| BT Buddy | ![BT Buddy preview](pets/bt-buddy/qa/contact-sheet.png) | [`dist/bt-buddy`](dist/bt-buddy) |
+
 ## Layout
 
 ```text
@@ -43,8 +50,9 @@ codex-pets/
 From this workspace:
 
 ```bash
-mkdir -p ~/.codex/pets/bt-buddy
-cp -R dist/bt-buddy/. ~/.codex/pets/bt-buddy/
+PET_ID=cartman
+mkdir -p ~/.codex/pets/$PET_ID
+cp -R dist/$PET_ID/. ~/.codex/pets/$PET_ID/
 ```
 
 Then choose the pet in Codex's pet selector. If the UI does not refresh immediately, switch to another pet and back.
